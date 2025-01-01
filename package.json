@@ -1,12 +1,12 @@
 {
-  "name": "MANU-MD",
+  "name": "AHMII-MD",
   "version": "7.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MANU-MD",
-    "stop": "pm2 stop MANU-MD",
-    "restart": "pm2 restart MANU-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name AHMII-MD",
+    "stop": "pm2 stop AHMII-MD",
+    "restart": "pm2 restart AHMII-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
