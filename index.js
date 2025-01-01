@@ -20,19 +20,19 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : MANU-MD
-//  * @author : Manul Official
-//  * @youtube : https://www.youtube.com/@ManulOfficialTech
-//  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
+//  * @project_name : AHMII-MD
+//  * @author : Ahmad Meharzada
+//  * @youtube : https://www.youtube.com/@notxahmiiTech
+//  * @description : AHMII-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * ©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚.
+//base by Ahmad Meharzada
+//GitHub: @NotxAhmii
+//WhatsApp: +923034819465
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/notxahmiiTech
+//   * Created By Github: NotxAhmii.
+//   * Credit To Ahmad Meharzada
+//   * -(( اح٘مــــّْ͢ــد مہــؔ͜ـــرزادہ🫀✨  💚.
 // ⛥┌┤
 // */
 
